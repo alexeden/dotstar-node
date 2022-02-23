@@ -8,6 +8,19 @@ Control a [Dotstar](https://learn.adafruit.com/adafruit-dotstar-leds/overview) L
 
 Includes a sample server and frontend Angular app for easily programming custom effects.
 
+
+## In use
+
+
+[![tetstar](./doc/tetthumb.png)](https://apemedia.s3.us-east-2.amazonaws.com/tetlight.mp4)
+
+![In Use GIF](./doc/demo.gif)
+
+![In Use Photo](./doc/demo.jpg)
+
+![Multicolor Photo](./doc/multicolor-demo.jpg)
+
+
 ## Browser-based web app
 
 Define RGB color channel functions:
@@ -30,11 +43,3 @@ Color channels are displayed and sent to the LED device in real-time:
 ## Server-side terminal output
 
 ![Terminal Screenshot](./doc/rainbow-terminal-output-screenshot.png)
-
-## In use
-
-![In Use GIF](./doc/demo.gif)
-
-![In Use Photo](./doc/demo.jpg)
-
-![Multicolor Photo](./doc/multicolor-demo.jpg)
